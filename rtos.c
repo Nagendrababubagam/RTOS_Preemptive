@@ -1,9 +1,8 @@
-x// RTOS Framework - Spring 2016
-// J Losh
+// RTOS Framework - preemptive
 
-// Student Name: Nagendra Babu Bagam
-// Mav Id: 1001243831
+// Author Name: Nagendra Babu Bagam
 // E-mail: nagendrababu.bagam@mavs.uta.edu
+
 //-----------------------------------------------------------------------------
 // Hardware Target
 //-----------------------------------------------------------------------------
